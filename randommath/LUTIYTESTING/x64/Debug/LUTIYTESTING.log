@@ -1,0 +1,6 @@
+﻿  LUTIYTESTING.cpp
+C:\Users\adamise\Downloads\LUTIYTESTING\LUTIYTESTING\LUTIYTESTING\LUTIYTESTING.cpp(16,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\adamise\Downloads\LUTIYTESTING\LUTIYTESTING\LUTIYTESTING\LUTIYTESTING.cpp(17,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\adamise\Downloads\LUTIYTESTING\LUTIYTESTING\LUTIYTESTING\LUTIYTESTING.cpp(18,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\adamise\Downloads\LUTIYTESTING\LUTIYTESTING\x64\Debug\LUTIYTESTING.exe при последней инкрементной компоновке; выполняется полная компоновка
+  LUTIYTESTING.vcxproj -> C:\Users\adamise\Downloads\LUTIYTESTING\LUTIYTESTING\x64\Debug\LUTIYTESTING.exe
